@@ -23,7 +23,6 @@
     <fullyQualifiedTypeName name="oopWithNLayeredApp.core.logging.MailLogger"/>
     <fullyQualifiedTypeName name="java.awt.event.FocusAdapter"/>
     <fullyQualifiedTypeName name="java.sql.PseudoColumnUsage"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="Company"/>
     <fullyQualifiedTypeName name="Main"/>
@@ -47,4 +46,10 @@
     <fullyQualifiedTypeName name="OgretmenKrediManager"/>
     <fullyQualifiedTypeName name="BaseKrediManager"/>
     <fullyQualifiedTypeName name="OgrenciKrediManager"/>
+    <fullyQualifiedTypeName name="GameCalculator"/>
+    <fullyQualifiedTypeName name="WomanGameCalculator"/>
+    <fullyQualifiedTypeName name="OlderGameCalculator"/>
+    <fullyQualifiedTypeName name="KidsGameCalculator"/>
+    <fullyQualifiedTypeName name="ManGameCalculator"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
